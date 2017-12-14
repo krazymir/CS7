@@ -1,0 +1,19 @@
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\OperatorAbuse\bin\Debug\OperatorAbuse.exe.config
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\OperatorAbuse\bin\Debug\OperatorAbuse.exe
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\OperatorAbuse\bin\Debug\OperatorAbuse.pdb
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\OperatorAbuse\bin\Debug\MiscUtil.dll
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\OperatorAbuse\bin\Debug\MiscUtil.pdb
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\OperatorAbuse\bin\Debug\MiscUtil.xml
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\OperatorAbuse\obj\Debug\OperatorAbuse.csprojResolveAssemblyReference.cache
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\OperatorAbuse\obj\Debug\OperatorAbuse.exe
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\OperatorAbuse\obj\Debug\OperatorAbuse.pdb
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\OperatorAbuse\bin\Debug\OperatorAbuse.exe.config
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\OperatorAbuse\bin\Debug\OperatorAbuse.exe
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\OperatorAbuse\bin\Debug\OperatorAbuse.pdb
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\OperatorAbuse\bin\Debug\MiscUtil.dll
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\OperatorAbuse\bin\Debug\MiscUtil.pdb
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\OperatorAbuse\bin\Debug\MiscUtil.xml
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\OperatorAbuse\obj\Debug\OperatorAbuse.csprojResolveAssemblyReference.cache
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\OperatorAbuse\obj\Debug\OperatorAbuse.csproj.CoreCompileInputs.cache
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\OperatorAbuse\obj\Debug\OperatorAbuse.exe
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\OperatorAbuse\obj\Debug\OperatorAbuse.pdb

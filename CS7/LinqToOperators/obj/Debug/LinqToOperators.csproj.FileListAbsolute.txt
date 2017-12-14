@@ -1,0 +1,19 @@
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\LinqToOperators\bin\Debug\LinqToOperators.exe.config
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\LinqToOperators\bin\Debug\LinqToOperators.exe
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\LinqToOperators\bin\Debug\LinqToOperators.pdb
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\LinqToOperators\bin\Debug\MiscUtil.dll
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\LinqToOperators\bin\Debug\MiscUtil.pdb
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\LinqToOperators\bin\Debug\MiscUtil.xml
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\LinqToOperators\obj\Debug\LinqToOperators.csprojResolveAssemblyReference.cache
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\LinqToOperators\obj\Debug\LinqToOperators.exe
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\LinqToOperators\obj\Debug\LinqToOperators.pdb
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\LinqToOperators\bin\Debug\LinqToOperators.exe.config
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\LinqToOperators\bin\Debug\LinqToOperators.exe
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\LinqToOperators\bin\Debug\LinqToOperators.pdb
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\LinqToOperators\bin\Debug\MiscUtil.dll
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\LinqToOperators\bin\Debug\MiscUtil.pdb
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\LinqToOperators\bin\Debug\MiscUtil.xml
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\LinqToOperators\obj\Debug\LinqToOperators.csprojResolveAssemblyReference.cache
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\LinqToOperators\obj\Debug\LinqToOperators.csproj.CoreCompileInputs.cache
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\LinqToOperators\obj\Debug\LinqToOperators.exe
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\LinqToOperators\obj\Debug\LinqToOperators.pdb

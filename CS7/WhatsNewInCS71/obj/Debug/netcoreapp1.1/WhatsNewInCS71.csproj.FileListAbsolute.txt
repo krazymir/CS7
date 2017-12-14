@@ -1,0 +1,10 @@
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WhatsNewInCS71\bin\Debug\netcoreapp1.1\WhatsNewInCS71.deps.json
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WhatsNewInCS71\bin\Debug\netcoreapp1.1\WhatsNewInCS71.runtimeconfig.json
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WhatsNewInCS71\bin\Debug\netcoreapp1.1\WhatsNewInCS71.runtimeconfig.dev.json
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WhatsNewInCS71\bin\Debug\netcoreapp1.1\WhatsNewInCS71.dll
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WhatsNewInCS71\bin\Debug\netcoreapp1.1\WhatsNewInCS71.pdb
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WhatsNewInCS71\obj\Debug\netcoreapp1.1\WhatsNewInCS71.csprojResolveAssemblyReference.cache
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WhatsNewInCS71\obj\Debug\netcoreapp1.1\WhatsNewInCS71.csproj.CoreCompileInputs.cache
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WhatsNewInCS71\obj\Debug\netcoreapp1.1\WhatsNewInCS71.AssemblyInfo.cs
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WhatsNewInCS71\obj\Debug\netcoreapp1.1\WhatsNewInCS71.dll
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WhatsNewInCS71\obj\Debug\netcoreapp1.1\WhatsNewInCS71.pdb

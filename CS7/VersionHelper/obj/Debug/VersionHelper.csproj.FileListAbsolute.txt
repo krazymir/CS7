@@ -1,0 +1,11 @@
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\VersionHelper\bin\Debug\VersionHelper.dll
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\VersionHelper\bin\Debug\VersionHelper.pdb
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\VersionHelper\obj\Debug\VersionHelper.csprojResolveAssemblyReference.cache
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\VersionHelper\obj\Debug\VersionHelper.dll
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\VersionHelper\obj\Debug\VersionHelper.pdb
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\VersionHelper\bin\Debug\VersionHelper.dll
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\VersionHelper\bin\Debug\VersionHelper.pdb
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\VersionHelper\obj\Debug\VersionHelper.csprojResolveAssemblyReference.cache
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\VersionHelper\obj\Debug\VersionHelper.csproj.CoreCompileInputs.cache
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\VersionHelper\obj\Debug\VersionHelper.dll
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\VersionHelper\obj\Debug\VersionHelper.pdb

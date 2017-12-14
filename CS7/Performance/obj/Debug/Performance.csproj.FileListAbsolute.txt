@@ -1,0 +1,17 @@
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\Performance\bin\Debug\Performance.exe
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\Performance\bin\Debug\Performance.pdb
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\Performance\bin\Debug\MiscUtil.dll
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\Performance\bin\Debug\MiscUtil.pdb
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\Performance\bin\Debug\MiscUtil.xml
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\Performance\obj\Debug\Performance.csprojResolveAssemblyReference.cache
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\Performance\obj\Debug\Performance.exe
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\Performance\obj\Debug\Performance.pdb
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\Performance\bin\Debug\Performance.exe
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\Performance\bin\Debug\Performance.pdb
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\Performance\bin\Debug\MiscUtil.dll
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\Performance\bin\Debug\MiscUtil.pdb
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\Performance\bin\Debug\MiscUtil.xml
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\Performance\obj\Debug\Performance.csprojResolveAssemblyReference.cache
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\Performance\obj\Debug\Performance.csproj.CoreCompileInputs.cache
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\Performance\obj\Debug\Performance.exe
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\Performance\obj\Debug\Performance.pdb

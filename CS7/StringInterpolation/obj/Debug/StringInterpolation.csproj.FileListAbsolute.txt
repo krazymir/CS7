@@ -1,0 +1,18 @@
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\StringInterpolation\bin\Debug\StringInterpolation.exe.config
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\StringInterpolation\bin\Debug\StringInterpolation.exe
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\StringInterpolation\bin\Debug\StringInterpolation.pdb
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\StringInterpolation\bin\Debug\MiscUtil.dll
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\StringInterpolation\bin\Debug\MiscUtil.pdb
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\StringInterpolation\bin\Debug\MiscUtil.xml
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\StringInterpolation\obj\Debug\StringInterpolation.csprojResolveAssemblyReference.cache
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\StringInterpolation\obj\Debug\StringInterpolation.exe
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\StringInterpolation\obj\Debug\StringInterpolation.pdb
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\StringInterpolation\bin\Debug\StringInterpolation.exe.config
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\StringInterpolation\bin\Debug\StringInterpolation.exe
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\StringInterpolation\bin\Debug\StringInterpolation.pdb
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\StringInterpolation\bin\Debug\MiscUtil.dll
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\StringInterpolation\bin\Debug\MiscUtil.pdb
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\StringInterpolation\bin\Debug\MiscUtil.xml
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\StringInterpolation\obj\Debug\StringInterpolation.csproj.CoreCompileInputs.cache
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\StringInterpolation\obj\Debug\StringInterpolation.exe
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\StringInterpolation\obj\Debug\StringInterpolation.pdb

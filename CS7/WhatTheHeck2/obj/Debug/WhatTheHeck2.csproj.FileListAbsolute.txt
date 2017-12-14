@@ -1,0 +1,17 @@
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\WhatTheHeck2\bin\Debug\WhatTheHeck2.exe.config
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\WhatTheHeck2\bin\Debug\WhatTheHeck2.exe
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\WhatTheHeck2\bin\Debug\WhatTheHeck2.pdb
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\WhatTheHeck2\bin\Debug\MiscUtil.dll
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\WhatTheHeck2\bin\Debug\MiscUtil.pdb
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\WhatTheHeck2\bin\Debug\MiscUtil.xml
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\WhatTheHeck2\obj\Debug\WhatTheHeck2.exe
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\WhatTheHeck2\obj\Debug\WhatTheHeck2.pdb
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WhatTheHeck2\bin\Debug\WhatTheHeck2.exe.config
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WhatTheHeck2\bin\Debug\WhatTheHeck2.exe
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WhatTheHeck2\bin\Debug\WhatTheHeck2.pdb
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WhatTheHeck2\bin\Debug\MiscUtil.dll
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WhatTheHeck2\bin\Debug\MiscUtil.pdb
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WhatTheHeck2\bin\Debug\MiscUtil.xml
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WhatTheHeck2\obj\Debug\WhatTheHeck2.csproj.CoreCompileInputs.cache
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WhatTheHeck2\obj\Debug\WhatTheHeck2.exe
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WhatTheHeck2\obj\Debug\WhatTheHeck2.pdb

@@ -1,0 +1,18 @@
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\WrappingAsync\bin\Debug\WrappingAsync.exe.config
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\WrappingAsync\bin\Debug\WrappingAsync.exe
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\WrappingAsync\bin\Debug\WrappingAsync.pdb
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\WrappingAsync\bin\Debug\MiscUtil.dll
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\WrappingAsync\bin\Debug\MiscUtil.pdb
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\WrappingAsync\bin\Debug\MiscUtil.xml
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\WrappingAsync\obj\Debug\WrappingAsync.csprojResolveAssemblyReference.cache
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\WrappingAsync\obj\Debug\WrappingAsync.exe
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\WrappingAsync\obj\Debug\WrappingAsync.pdb
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WrappingAsync\bin\Debug\WrappingAsync.exe.config
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WrappingAsync\bin\Debug\WrappingAsync.exe
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WrappingAsync\bin\Debug\WrappingAsync.pdb
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WrappingAsync\bin\Debug\MiscUtil.dll
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WrappingAsync\bin\Debug\MiscUtil.pdb
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WrappingAsync\bin\Debug\MiscUtil.xml
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WrappingAsync\obj\Debug\WrappingAsync.csproj.CoreCompileInputs.cache
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WrappingAsync\obj\Debug\WrappingAsync.exe
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WrappingAsync\obj\Debug\WrappingAsync.pdb

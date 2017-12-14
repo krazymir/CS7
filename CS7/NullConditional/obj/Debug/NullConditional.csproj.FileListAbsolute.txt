@@ -1,0 +1,19 @@
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\NullConditional\bin\Debug\NullConditional.exe.config
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\NullConditional\bin\Debug\NullConditional.exe
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\NullConditional\bin\Debug\NullConditional.pdb
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\NullConditional\bin\Debug\MiscUtil.dll
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\NullConditional\bin\Debug\MiscUtil.pdb
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\NullConditional\bin\Debug\MiscUtil.xml
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\NullConditional\obj\Debug\NullConditional.csprojResolveAssemblyReference.cache
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\NullConditional\obj\Debug\NullConditional.exe
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\NullConditional\obj\Debug\NullConditional.pdb
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\NullConditional\bin\Debug\NullConditional.exe.config
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\NullConditional\bin\Debug\NullConditional.exe
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\NullConditional\bin\Debug\NullConditional.pdb
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\NullConditional\bin\Debug\MiscUtil.dll
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\NullConditional\bin\Debug\MiscUtil.pdb
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\NullConditional\bin\Debug\MiscUtil.xml
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\NullConditional\obj\Debug\NullConditional.csprojResolveAssemblyReference.cache
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\NullConditional\obj\Debug\NullConditional.csproj.CoreCompileInputs.cache
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\NullConditional\obj\Debug\NullConditional.exe
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\NullConditional\obj\Debug\NullConditional.pdb

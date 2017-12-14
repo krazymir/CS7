@@ -1,0 +1,15 @@
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WhatsNewInCS7.Tests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WhatsNewInCS7.Tests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WhatsNewInCS7.Tests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WhatsNewInCS7.Tests\bin\Debug\netcoreapp1.1\WhatsNewInCS7.Tests.deps.json
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WhatsNewInCS7.Tests\bin\Debug\netcoreapp1.1\WhatsNewInCS7.Tests.runtimeconfig.json
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WhatsNewInCS7.Tests\bin\Debug\netcoreapp1.1\WhatsNewInCS7.Tests.runtimeconfig.dev.json
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WhatsNewInCS7.Tests\bin\Debug\netcoreapp1.1\WhatsNewInCS7.Tests.dll
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WhatsNewInCS7.Tests\bin\Debug\netcoreapp1.1\WhatsNewInCS7.Tests.pdb
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WhatsNewInCS7.Tests\bin\Debug\netcoreapp1.1\WhatsNewInCS7.dll
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WhatsNewInCS7.Tests\bin\Debug\netcoreapp1.1\WhatsNewInCS7.pdb
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WhatsNewInCS7.Tests\obj\Debug\netcoreapp1.1\WhatsNewInCS7.Tests.csprojResolveAssemblyReference.cache
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WhatsNewInCS7.Tests\obj\Debug\netcoreapp1.1\WhatsNewInCS7.Tests.csproj.CoreCompileInputs.cache
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WhatsNewInCS7.Tests\obj\Debug\netcoreapp1.1\WhatsNewInCS7.Tests.AssemblyInfo.cs
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WhatsNewInCS7.Tests\obj\Debug\netcoreapp1.1\WhatsNewInCS7.Tests.dll
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WhatsNewInCS7.Tests\obj\Debug\netcoreapp1.1\WhatsNewInCS7.Tests.pdb

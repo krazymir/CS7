@@ -1,0 +1,21 @@
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\OddsAndEnds\bin\Debug\OddsAndEnds.exe.config
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\OddsAndEnds\bin\Debug\OddsAndEnds.exe
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\OddsAndEnds\bin\Debug\OddsAndEnds.pdb
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\OddsAndEnds\bin\Debug\MiscUtil.dll
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\OddsAndEnds\bin\Debug\System.ValueTuple.dll
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\OddsAndEnds\bin\Debug\MiscUtil.pdb
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\OddsAndEnds\bin\Debug\MiscUtil.xml
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\OddsAndEnds\obj\Debug\OddsAndEnds.csprojResolveAssemblyReference.cache
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\OddsAndEnds\obj\Debug\OddsAndEnds.exe
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\OddsAndEnds\obj\Debug\OddsAndEnds.pdb
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\OddsAndEnds\bin\Debug\OddsAndEnds.exe.config
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\OddsAndEnds\bin\Debug\OddsAndEnds.exe
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\OddsAndEnds\bin\Debug\OddsAndEnds.pdb
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\OddsAndEnds\bin\Debug\MiscUtil.dll
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\OddsAndEnds\bin\Debug\System.ValueTuple.dll
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\OddsAndEnds\bin\Debug\MiscUtil.pdb
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\OddsAndEnds\bin\Debug\MiscUtil.xml
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\OddsAndEnds\obj\Debug\OddsAndEnds.csprojResolveAssemblyReference.cache
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\OddsAndEnds\obj\Debug\OddsAndEnds.csproj.CoreCompileInputs.cache
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\OddsAndEnds\obj\Debug\OddsAndEnds.exe
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\OddsAndEnds\obj\Debug\OddsAndEnds.pdb

@@ -1,0 +1,19 @@
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\FunWithAwaiters\bin\Debug\FunWithAwaiters.exe.config
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\FunWithAwaiters\bin\Debug\FunWithAwaiters.exe
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\FunWithAwaiters\bin\Debug\FunWithAwaiters.pdb
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\FunWithAwaiters\bin\Debug\MiscUtil.dll
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\FunWithAwaiters\bin\Debug\MiscUtil.pdb
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\FunWithAwaiters\bin\Debug\MiscUtil.xml
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\FunWithAwaiters\obj\Debug\FunWithAwaiters.csprojResolveAssemblyReference.cache
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\FunWithAwaiters\obj\Debug\FunWithAwaiters.exe
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\FunWithAwaiters\obj\Debug\FunWithAwaiters.pdb
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\FunWithAwaiters\bin\Debug\FunWithAwaiters.exe.config
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\FunWithAwaiters\bin\Debug\FunWithAwaiters.exe
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\FunWithAwaiters\bin\Debug\FunWithAwaiters.pdb
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\FunWithAwaiters\bin\Debug\MiscUtil.dll
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\FunWithAwaiters\bin\Debug\MiscUtil.pdb
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\FunWithAwaiters\bin\Debug\MiscUtil.xml
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\FunWithAwaiters\obj\Debug\FunWithAwaiters.csprojResolveAssemblyReference.cache
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\FunWithAwaiters\obj\Debug\FunWithAwaiters.csproj.CoreCompileInputs.cache
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\FunWithAwaiters\obj\Debug\FunWithAwaiters.exe
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\FunWithAwaiters\obj\Debug\FunWithAwaiters.pdb

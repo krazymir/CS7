@@ -1,0 +1,9 @@
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\CS7\bin\Debug\netcoreapp1.1\CS7.deps.json
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\CS7\bin\Debug\netcoreapp1.1\CS7.runtimeconfig.json
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\CS7\bin\Debug\netcoreapp1.1\CS7.runtimeconfig.dev.json
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\CS7\bin\Debug\netcoreapp1.1\CS7.dll
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\CS7\bin\Debug\netcoreapp1.1\CS7.pdb
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\CS7\obj\Debug\netcoreapp1.1\CS7.csprojResolveAssemblyReference.cache
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\CS7\obj\Debug\netcoreapp1.1\CS7.AssemblyInfo.cs
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\CS7\obj\Debug\netcoreapp1.1\CS7.dll
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\CS7\obj\Debug\netcoreapp1.1\CS7.pdb

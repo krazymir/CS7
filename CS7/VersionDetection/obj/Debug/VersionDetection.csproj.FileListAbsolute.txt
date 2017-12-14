@@ -1,0 +1,23 @@
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\VersionDetection\bin\Debug\VersionDetection.exe.config
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\VersionDetection\bin\Debug\VersionDetection.exe
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\VersionDetection\bin\Debug\VersionDetection.pdb
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\VersionDetection\bin\Debug\MiscUtil.dll
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\VersionDetection\bin\Debug\VersionHelper.dll
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\VersionDetection\bin\Debug\VersionHelper.pdb
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\VersionDetection\bin\Debug\MiscUtil.pdb
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\VersionDetection\bin\Debug\MiscUtil.xml
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\VersionDetection\obj\Debug\VersionDetection.csprojResolveAssemblyReference.cache
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\VersionDetection\obj\Debug\VersionDetection.exe
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\VersionDetection\obj\Debug\VersionDetection.pdb
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\VersionDetection\bin\Debug\VersionDetection.exe.config
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\VersionDetection\bin\Debug\VersionDetection.exe
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\VersionDetection\bin\Debug\VersionDetection.pdb
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\VersionDetection\bin\Debug\MiscUtil.dll
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\VersionDetection\bin\Debug\VersionHelper.dll
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\VersionDetection\bin\Debug\VersionHelper.pdb
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\VersionDetection\bin\Debug\MiscUtil.pdb
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\VersionDetection\bin\Debug\MiscUtil.xml
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\VersionDetection\obj\Debug\VersionDetection.csprojResolveAssemblyReference.cache
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\VersionDetection\obj\Debug\VersionDetection.csproj.CoreCompileInputs.cache
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\VersionDetection\obj\Debug\VersionDetection.exe
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\VersionDetection\obj\Debug\VersionDetection.pdb

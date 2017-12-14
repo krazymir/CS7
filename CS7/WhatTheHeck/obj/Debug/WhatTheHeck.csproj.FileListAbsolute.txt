@@ -1,0 +1,16 @@
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\WhatTheHeck\bin\Debug\WhatTheHeck.exe
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\WhatTheHeck\bin\Debug\WhatTheHeck.pdb
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\WhatTheHeck\bin\Debug\MiscUtil.dll
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\WhatTheHeck\bin\Debug\MiscUtil.pdb
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\WhatTheHeck\bin\Debug\MiscUtil.xml
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\WhatTheHeck\obj\Debug\WhatTheHeck.csprojResolveAssemblyReference.cache
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\WhatTheHeck\obj\Debug\WhatTheHeck.exe
+C:\Projects\Scalefocus\Presentations\AbusingCS\Abusing CSharp\Code\WhatTheHeck\obj\Debug\WhatTheHeck.pdb
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WhatTheHeck\bin\Debug\WhatTheHeck.exe
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WhatTheHeck\bin\Debug\WhatTheHeck.pdb
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WhatTheHeck\bin\Debug\MiscUtil.dll
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WhatTheHeck\bin\Debug\MiscUtil.pdb
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WhatTheHeck\bin\Debug\MiscUtil.xml
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WhatTheHeck\obj\Debug\WhatTheHeck.csproj.CoreCompileInputs.cache
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WhatTheHeck\obj\Debug\WhatTheHeck.exe
+C:\Projects\Scalefocus\Presentations\CS7\CS7\CS7\WhatTheHeck\obj\Debug\WhatTheHeck.pdb
